@@ -8,7 +8,7 @@
 <h3 align="center">An AI/ML Engineer (From Pakistan)</h3>
 <h3 align="center">Dedicated to building intelligent systems that drive real-world impact</h3>
 
-<img align="right" alt="Coding" src="https://cdn.dribbble.com/userupload/30832962/file/original-199091f9b19f067153ecd518321a3898.gif" width="200" style="max-width: 100%; height: auto;">
+<img align="right" alt="Coding" src="https://cdn.dribbble.com/userupload/30832962/file/original-199091f9b19f067153ecd518321a3898.gif" width="300" style="max-width: 100%; height: auto;">
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=abeer-fatima-dev&label=Profile%20views&color=0e75b6&style=flat" alt="abeer-fatima-dev" />
