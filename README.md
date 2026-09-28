@@ -80,124 +80,174 @@ I’m particularly interested in creating AI solutions that combine strong engin
 <br>
 
 ---
-
 <!-- ======================== TECH STACK ======================== -->
 
-<h2 align="center">🧰 Tech Stack</h2>
-
-<p align="center">
-Technologies and tools I work with to build intelligent, data-driven applications.
-</p>
+<h2 align="center">🚀 Skills & Technologies</h2>
 
 <br>
 
-<table align="center">
-<tr>
-<td align="center">
+<div align="center">
 
-<br>
+<table>
+  <!-- ROW 1 -->
+  <tr>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=python" width="55" height="55" alt="Python"/>
+      <br><br>
+      <b>Python</b>
+    </td>
 
-### 🧠 AI • Machine Learning • Deep Learning
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=tensorflow" width="55" height="55" alt="TensorFlow"/>
+      <br><br>
+      <b>TensorFlow</b>
+    </td>
 
-<p align="center">
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=pytorch" width="55" height="55" alt="PyTorch"/>
+      <br><br>
+      <b>PyTorch</b>
+    </td>
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn" />
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=sklearn" width="55" height="55" alt="Scikit-learn"/>
+      <br><br>
+      <b>Scikit-learn</b>
+    </td>
 
-<br><br>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="55" height="55" alt="NumPy"/>
+      <br><br>
+      <b>NumPy</b>
+    </td>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" title="NumPy"/>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" title="Pandas"/>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="48" title="Matplotlib"/>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="55" height="55" alt="Pandas"/>
+      <br><br>
+      <b>Pandas</b>
+    </td>
+  </tr>
 
-</p>
+  <!-- ROW 2 -->
+  <tr>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="55" height="55" alt="Matplotlib"/>
+      <br><br>
+      <b>Matplotlib</b>
+    </td>
 
-`Python` • `TensorFlow` • `Scikit-learn` • `NumPy` • `Pandas` • `Matplotlib`
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=mysql" width="55" height="55" alt="SQL"/>
+      <br><br>
+      <b>SQL</b>
+    </td>
 
-<br>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=postgres" width="55" height="55" alt="PostgreSQL"/>
+      <br><br>
+      <b>PostgreSQL</b>
+    </td>
 
-### ✨ Generative AI • LLM Engineering
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=fastapi" width="55" height="55" alt="FastAPI"/>
+      <br><br>
+      <b>FastAPI</b>
+    </td>
 
-<p align="center">
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=flask" width="55" height="55" alt="Flask"/>
+      <br><br>
+      <b>Flask</b>
+    </td>
 
-<img src="https://img.shields.io/badge/LLMs-111827?style=for-the-badge" />
-<img src="https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Embeddings-9333EA?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Semantic_Search-2563EB?style=for-the-badge" />
+    <td align="center" width="120">
+      <img src="https://cdn.simpleicons.org/openapiinitiative/6BA539" width="55" height="55" alt="REST API"/>
+      <br><br>
+      <b>REST APIs</b>
+    </td>
+  </tr>
 
-<br>
+  <!-- ROW 3 -->
+  <tr>
+    <td align="center" width="120">
+      <div style="font-size:38px">🧠</div>
+      <br>
+      <b>LLMs</b>
+    </td>
 
-<img src="https://img.shields.io/badge/AI_Agents-DC2626?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Agentic_AI-059669?style=for-the-badge" />
-<img src="https://img.shields.io/badge/MCP-0F766E?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Prompt_Engineering-D97706?style=for-the-badge" />
+    <td align="center" width="120">
+      <div style="font-size:38px">🔎</div>
+      <br>
+      <b>RAG</b>
+    </td>
 
-</p>
+    <td align="center" width="120">
+      <div style="font-size:38px">🔢</div>
+      <br>
+      <b>Embeddings</b>
+    </td>
 
-<br>
+    <td align="center" width="120">
+      <div style="font-size:38px">🤖</div>
+      <br>
+      <b>AI Agents</b>
+    </td>
 
-### 🗄️ Data • Databases • Vector Retrieval
+    <td align="center" width="120">
+      <div style="font-size:38px">🔌</div>
+      <br>
+      <b>MCP</b>
+    </td>
 
-<p align="center">
+    <td align="center" width="120">
+      <div style="font-size:38px">🟣</div>
+      <br>
+      <b>ChromaDB</b>
+    </td>
+  </tr>
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql" />
+  <!-- ROW 4 -->
+  <tr>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=react" width="55" height="55" alt="React"/>
+      <br><br>
+      <b>React</b>
+    </td>
 
-<br><br>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=js" width="55" height="55" alt="JavaScript"/>
+      <br><br>
+      <b>JavaScript</b>
+    </td>
 
-<img src="https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Vector_Search-6366F1?style=for-the-badge" />
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=git" width="55" height="55" alt="Git"/>
+      <br><br>
+      <b>Git</b>
+    </td>
 
-</p>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=github" width="55" height="55" alt="GitHub"/>
+      <br><br>
+      <b>GitHub</b>
+    </td>
 
-`SQL` • `PostgreSQL` • `ChromaDB` • `Vector Search`
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=docker" width="55" height="55" alt="Docker"/>
+      <br><br>
+      <b>Docker</b>
+    </td>
 
-<br>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=vscode" width="55" height="55" alt="VS Code"/>
+      <br><br>
+      <b>VS Code</b>
+    </td>
+  </tr>
 
-### ⚙️ Backend • APIs
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=fastapi,flask" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge" />
-<img src="https://img.shields.io/badge/AI_Integration-0891B2?style=for-the-badge" />
-
-</p>
-
-`FastAPI` • `Flask` • `REST APIs` • `AI Integration`
-
-<br>
-
-### 💻 Application Development
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=react,js,html,css" />
-
-</p>
-
-`React` • `JavaScript` • `HTML` • `CSS`
-
-<br>
-
-### 🛠️ Development • Deployment
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode" />
-
-</p>
-
-`Git` • `GitHub` • `Docker` • `VS Code`
-
-<br>
-
-</td>
-</tr>
 </table>
+
+</div>
 
 <br>
 
