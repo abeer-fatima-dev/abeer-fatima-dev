@@ -45,39 +45,31 @@
 
 <h2 align="center">👩‍💻 About Me</h2>
 
-<table>
+<table border="0">
 <tr>
 
-<td width="62%" valign="center">
+<td width="67%" valign="middle">
 
-### Hello, I'm Abeer 👋
+I'm **Abeer Fatima**, an **AI/ML Engineer** focused on building practical, intelligent, and scalable AI systems.
 
-I'm an **AI/ML Engineer** focused on building practical, intelligent, and scalable AI systems.
+My work spans **Machine Learning, Deep Learning, Generative AI, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and Agentic AI**, with hands-on experience developing AI workflows, retrieval systems, APIs, and end-to-end applications.
 
-My work spans **Machine Learning, Deep Learning, Generative AI, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and Agentic AI**.
+I enjoy taking AI beyond experimentation — connecting **models, data, retrieval, APIs, vector databases, and automation** to build systems that solve real-world problems.
 
-I enjoy taking AI beyond experimentation by connecting **models, data, retrieval systems, APIs, vector databases, and automation** into complete working applications.
+I’m particularly interested in creating AI solutions that combine strong engineering with intelligent automation.
 
-My engineering interests revolve around building AI systems that are not only intelligent, but also **useful, reliable, and applicable to real-world problems**.
+**⚡ Core Focus**
 
-<br>
-
-**⚡ Areas I work with**
-
-`Machine Learning` • `Deep Learning` • `LLMs`
-
-`RAG` • `Generative AI` • `AI Agents`
-
-`MCP` • `Semantic Search` • `AI APIs`
+`Machine Learning` • `Deep Learning` • `LLMs` • `RAG` • `Generative AI` • `AI Agents`
 
 </td>
 
-<td width="38%" align="center" valign="center">
+<td width="33%" align="center" valign="middle">
 
 <img
-  src="./assets/ai-girl.png"
-  width="300"
-  alt="AI Engineer Illustration"
+  src="https://static.vecteezy.com/system/resources/previews/056/981/712/non_2x/girl-working-at-home-with-a-laptop-on-table-2d-cartoon-character-cute-style-girl-with-black-hair-isolated-remote-work-flat-spots-illustration-vector.jpg"
+  width="280"
+  alt="Girl working with laptop"
 />
 
 </td>
@@ -94,214 +86,118 @@ My engineering interests revolve around building AI systems that are not only in
 <h2 align="center">🧰 Tech Stack</h2>
 
 <p align="center">
-Technologies and tools I use to build intelligent AI applications.
+Technologies and tools I work with to build intelligent, data-driven applications.
 </p>
 
 <br>
 
-<div align="center">
-
-### 🧠 AI & Machine Learning
-
-<table>
+<table align="center">
 <tr>
+<td align="center">
 
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=python" width="48"/>
+<br>
+
+### 🧠 AI • Machine Learning • Deep Learning
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn" />
+
 <br><br>
-<b>Python</b>
-</td>
 
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=tensorflow" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" title="NumPy"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" title="Pandas"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="48" title="Matplotlib"/>
+
+</p>
+
+`Python` • `TensorFlow` • `Scikit-learn` • `NumPy` • `Pandas` • `Matplotlib`
+
+<br>
+
+### ✨ Generative AI • LLM Engineering
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/LLMs-111827?style=for-the-badge" />
+<img src="https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Embeddings-9333EA?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Semantic_Search-2563EB?style=for-the-badge" />
+
+<br>
+
+<img src="https://img.shields.io/badge/AI_Agents-DC2626?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Agentic_AI-059669?style=for-the-badge" />
+<img src="https://img.shields.io/badge/MCP-0F766E?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Prompt_Engineering-D97706?style=for-the-badge" />
+
+</p>
+
+<br>
+
+### 🗄️ Data • Databases • Vector Retrieval
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql" />
+
 <br><br>
-<b>TensorFlow</b>
-</td>
 
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=sklearn" width="48"/>
+<img src="https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Vector_Search-6366F1?style=for-the-badge" />
+
+</p>
+
+`SQL` • `PostgreSQL` • `ChromaDB` • `Vector Search`
+
+<br>
+
+### ⚙️ Backend • APIs
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=fastapi,flask" />
+
 <br><br>
-<b>Scikit-learn</b>
-</td>
 
-<td align="center" width="110">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48"/>
-<br><br>
-<b>NumPy</b>
-</td>
+<img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AI_Integration-0891B2?style=for-the-badge" />
 
-<td align="center" width="110">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48"/>
-<br><br>
-<b>Pandas</b>
-</td>
+</p>
 
-</tr>
-</table>
+`FastAPI` • `Flask` • `REST APIs` • `AI Integration`
 
-
-### ✨ Generative AI & LLM Engineering
-
-<table>
-<tr>
-
-<td align="center" width="130">
-<h2>🧠</h2>
-<b>LLMs</b>
-</td>
-
-<td align="center" width="130">
-<h2>🔎</h2>
-<b>RAG</b>
-</td>
-
-<td align="center" width="130">
-<h2>🔢</h2>
-<b>Embeddings</b>
-</td>
-
-<td align="center" width="130">
-<h2>🤖</h2>
-<b>AI Agents</b>
-</td>
-
-<td align="center" width="130">
-<h2>🔌</h2>
-<b>MCP</b>
-</td>
-
-</tr>
-</table>
-
-
-### 🗄️ Databases & Retrieval
-
-<table>
-<tr>
-
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=postgres" width="48"/>
-<br><br>
-<b>PostgreSQL</b>
-</td>
-
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=mysql" width="48"/>
-<br><br>
-<b>SQL</b>
-</td>
-
-<td align="center" width="120">
-<h2>🟣</h2>
-<b>ChromaDB</b>
-</td>
-
-<td align="center" width="130">
-<h2>🔍</h2>
-<b>Vector Search</b>
-</td>
-
-</tr>
-</table>
-
-
-### ⚙️ Backend & APIs
-
-<table>
-<tr>
-
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=fastapi" width="48"/>
-<br><br>
-<b>FastAPI</b>
-</td>
-
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=flask" width="48"/>
-<br><br>
-<b>Flask</b>
-</td>
-
-<td align="center" width="120">
-<h2>🌐</h2>
-<b>REST APIs</b>
-</td>
-
-<td align="center" width="140">
-<h2>⚡</h2>
-<b>AI Integration</b>
-</td>
-
-</tr>
-</table>
-
+<br>
 
 ### 💻 Application Development
 
-<table>
-<tr>
+<p align="center">
 
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=react" width="48"/>
-<br><br>
-<b>React</b>
+<img src="https://skillicons.dev/icons?i=react,js,html,css" />
+
+</p>
+
+`React` • `JavaScript` • `HTML` • `CSS`
+
+<br>
+
+### 🛠️ Development • Deployment
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode" />
+
+</p>
+
+`Git` • `GitHub` • `Docker` • `VS Code`
+
+<br>
+
 </td>
-
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=js" width="48"/>
-<br><br>
-<b>JavaScript</b>
-</td>
-
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=html" width="48"/>
-<br><br>
-<b>HTML</b>
-</td>
-
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=css" width="48"/>
-<br><br>
-<b>CSS</b>
-</td>
-
 </tr>
 </table>
-
-
-### 🛠️ Development & Deployment
-
-<table>
-<tr>
-
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=git" width="48"/>
-<br><br>
-<b>Git</b>
-</td>
-
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=github" width="48"/>
-<br><br>
-<b>GitHub</b>
-</td>
-
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=docker" width="48"/>
-<br><br>
-<b>Docker</b>
-</td>
-
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=vscode" width="48"/>
-<br><br>
-<b>VS Code</b>
-</td>
-
-</tr>
-</table>
-
-</div>
 
 <br>
 
@@ -312,7 +208,7 @@ Technologies and tools I use to build intelligent AI applications.
 <h2 align="center">🎯 Engineering Focus</h2>
 
 <p align="center">
-Areas where I focus my AI engineering work.
+Building intelligent systems across machine learning, generative AI, and AI engineering.
 </p>
 
 <br>
@@ -395,11 +291,13 @@ Interested in building practical AI systems and collaborating on meaningful AI e
 
 Thank you for taking the time to explore my GitHub profile.
 
-If you find something useful or interesting, consider leaving a ⭐ on the repository.
+If you find my work interesting or useful, consider leaving a **⭐ on my repositories**.
+
+Your support motivates me to keep building, experimenting, and sharing.
 
 <br>
 
-**Explore the repositories • Check out the code • Connect with me**
+### ⭐ Explore the Repositories • Check the Code • Connect With Me
 
 <br>
 
@@ -407,7 +305,7 @@ If you find something useful or interesting, consider leaving a ⭐ on the repos
 
 <br><br>
 
-### `Keep Building. Keep Learning. Keep Creating.`
+### `Build • Experiment • Engineer • Improve`
 
 <br>
 
