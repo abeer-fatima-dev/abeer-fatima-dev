@@ -1,12 +1,34 @@
-<div align="center">
+<!-- ========================================================= -->
+<!--                  ABEER FATIMA | GITHUB                    -->
+<!-- ========================================================= -->
+
+
+<!-- ====================== COVER ====================== -->
+
+<p align="center">
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,45:203A43,100:2C5364&height=260&section=header&text=Abeer%20Fatima&fontSize=62&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Engineer&descSize=24&descAlignY=55"
+  />
+</p>
+
+
+<!-- ====================== INTRO ====================== -->
 
 <div align="center">
 
-# Abeer Fatima
-
-### AI/ML Engineer | Generative AI | RAG | Agentic AI
+### AI/ML Engineer
 
 <br>
+
+<a href="https://git.io/typing-svg">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=22B8F0&center=true&vCenter=true&width=900&lines=Building+Intelligent+Systems+From+Data+to+Deployment;Engineering+Machine+Learning+Solutions;Building+RAG+%26+LLM+Applications;Developing+Agentic+AI+Workflows;Turning+AI+Ideas+Into+Working+Systems"
+    alt="Typing SVG"
+  />
+</a>
+
+<br><br>
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
 [![GitHub](https://img.shields.io/badge/GITHUB-EXPLORE-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abeer-fatima-dev)
@@ -14,140 +36,267 @@
 
 <br><br>
 
-<a href="https://git.io/typing-svg">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=900&color=22B8F0&center=true&vCenter=true&width=850&lines=Building+Intelligent+AI+Systems;Engineering+RAG+%26+LLM+Applications;Developing+Agentic+AI+Workflows;Turning+Data+Into+Intelligent+Solutions;Building+AI+From+Models+to+Deployment"
-    alt="Typing SVG"
-  />
-</a>
+![Location](https://img.shields.io/badge/📍_Based_in-Pakistan-046A38?style=flat-square)
 
-<br><br>
-
-![Location](https://img.shields.io/badge/Based_in-Lahore%2C_Pakistan-444?style=flat-square)
-![Focus](https://img.shields.io/badge/Focus-AI_%7C_RAG_%7C_Agentic_Systems-7C3AED?style=flat-square)
+![Focus](https://img.shields.io/badge/Focus-ML_%7C_DL_%7C_LLMs_%7C_RAG_%7C_GenAI-7C3AED?style=flat-square)
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
+<!-- ====================== ABOUT ====================== -->
 
 ## 👩‍💻 About Me
 
-I’m an **AI/ML Engineer** focused on building practical and intelligent AI systems.
+I'm **Abeer Fatima**, an **AI/ML Engineer** focused on building practical, intelligent, and scalable AI solutions.
 
-My work spans **Machine Learning, Deep Learning, Generative AI, RAG, LLM-powered
-applications, and Agentic AI**, with hands-on experience developing AI workflows,
-retrieval systems, APIs, and end-to-end applications.
+My work spans **Machine Learning, Deep Learning, Generative AI, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and Agentic AI**, with hands-on experience developing AI workflows, retrieval systems, APIs, and end-to-end applications.
 
-I’m particularly interested in designing AI systems that go beyond experimentation —
-connecting **models, data, retrieval, APIs, and automation** to solve real-world problems.
+I enjoy taking AI beyond experimentation — connecting **models, data, retrieval, APIs, vector databases, and automation** to build systems that solve real-world problems.
+
+> **My focus:** Building AI systems that move from experimentation to real-world applications.
 
 ---
+
+<!-- ====================== TECH STACK ====================== -->
 
 # 🧰 Tech Stack
 
 <div align="center">
 
-### 🧠 Machine Learning & Deep Learning
+### 🧠 AI / Machine Learning
 
-![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TENSORFLOW-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/SCIKIT--LEARN-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+<table>
+<tr>
 
-<br>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=python" width="50" height="50" />
+<br><b>Python</b>
+</td>
 
-### 📊 Data & Analysis
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=tensorflow" width="50" height="50" />
+<br><b>TensorFlow</b>
+</td>
 
-![NumPy](https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/MATPLOTLIB-11557C?style=for-the-badge)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=sklearn" width="50" height="50" />
+<br><b>Scikit-learn</b>
+</td>
 
-<br>
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" height="50" />
+<br><b>NumPy</b>
+</td>
 
-### ✨ Generative AI & LLM Engineering
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" height="50" />
+<br><b>Pandas</b>
+</td>
 
-![RAG](https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge)
-![LLMs](https://img.shields.io/badge/LLMs-111827?style=for-the-badge)
-![Embeddings](https://img.shields.io/badge/EMBEDDINGS-9333EA?style=for-the-badge)
-![Semantic Search](https://img.shields.io/badge/SEMANTIC_SEARCH-2563EB?style=for-the-badge)
-![AI Agents](https://img.shields.io/badge/AI_AGENTS-DC2626?style=for-the-badge)
-![MCP](https://img.shields.io/badge/MCP-059669?style=for-the-badge)
+</tr>
+</table>
 
-<br>
 
-### ⚙️ Backend & AI Integration
+### ✨ Generative AI / LLM Engineering
 
-![FastAPI](https://img.shields.io/badge/FASTAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/FLASK-000000?style=for-the-badge&logo=flask&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge)
-![ChromaDB](https://img.shields.io/badge/CHROMADB-FF6B35?style=for-the-badge)
+<table>
+<tr>
 
-<br>
+<td align="center" width="120">
+<img src="https://img.shields.io/badge/LLM-111827?style=for-the-badge" />
+<br><b>LLMs</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge" />
+<br><b>RAG</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://img.shields.io/badge/Vector-2563EB?style=for-the-badge" />
+<br><b>Embeddings</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://img.shields.io/badge/AI-DC2626?style=for-the-badge" />
+<br><b>AI Agents</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://img.shields.io/badge/MCP-059669?style=for-the-badge" />
+<br><b>MCP</b>
+</td>
+
+</tr>
+</table>
+
+
+### 🗄️ Data & Databases
+
+<table>
+<tr>
+
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=postgres" width="50" height="50" />
+<br><b>PostgreSQL</b>
+</td>
+
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=mysql" width="50" height="50" />
+<br><b>SQL</b>
+</td>
+
+<td align="center" width="110">
+<img src="https://img.shields.io/badge/Chroma-FF6B35?style=for-the-badge" />
+<br><b>ChromaDB</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://img.shields.io/badge/Vector-6366F1?style=for-the-badge" />
+<br><b>Vector Search</b>
+</td>
+
+</tr>
+</table>
+
+
+### ⚙️ Backend & APIs
+
+<table>
+<tr>
+
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=fastapi" width="50" height="50" />
+<br><b>FastAPI</b>
+</td>
+
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=flask" width="50" height="50" />
+<br><b>Flask</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://img.shields.io/badge/REST-005571?style=for-the-badge" />
+<br><b>REST APIs</b>
+</td>
+
+</tr>
+</table>
+
 
 ### 💻 Application Development
 
-![React](https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<table>
+<tr>
 
-<br>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=react" width="50" height="50" />
+<br><b>React</b>
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=js" width="50" height="50" />
+<br><b>JavaScript</b>
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=html" width="50" height="50" />
+<br><b>HTML</b>
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=css" width="50" height="50" />
+<br><b>CSS</b>
+</td>
+
+</tr>
+</table>
+
 
 ### 🛠️ Development & Deployment
 
-![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<table>
+<tr>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=git" width="50" height="50" />
+<br><b>Git</b>
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=github" width="50" height="50" />
+<br><b>GitHub</b>
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=docker" width="50" height="50" />
+<br><b>Docker</b>
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=vscode" width="50" height="50" />
+<br><b>VS Code</b>
+</td>
+
+</tr>
+</table>
 
 </div>
 
 ---
 
+<!-- ====================== ENGINEERING FOCUS ====================== -->
+
 # 🎯 Engineering Focus
 
 <div align="center">
 
-| Machine Learning | Generative AI | AI Engineering |
-|:---:|:---:|:---:|
+| 🧠 Machine Learning | ✨ Generative AI | ⚙️ AI Engineering |
+| :---: | :---: | :---: |
 | Model Development | RAG Pipelines | AI APIs |
 | Data Preprocessing | LLM Applications | Intelligent Automation |
 | Model Evaluation | Embeddings | Backend Integration |
-| Deep Learning | Semantic Retrieval | MCP |
+| Deep Learning | Semantic Search | MCP |
 | Recommendation Systems | AI Agents | End-to-End AI Workflows |
 
 </div>
 
 ---
 
+<!-- ====================== GITHUB ANALYTICS ====================== -->
+
 # 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="170"
-src="https://github-readme-stats.vercel.app/api?username=abeer-fatima-dev&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" />
+<img
+  height="170"
+  src="https://github-readme-stats.vercel.app/api?username=abeer-fatima-dev&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true"
+/>
 
-<img height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=abeer-fatima-dev&layout=compact&theme=github_dark&hide_border=true" />
+<img
+  height="170"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=abeer-fatima-dev&layout=compact&theme=github_dark&hide_border=true"
+/>
 
 <br><br>
 
 <img
-src="https://streak-stats.demolab.com?user=abeer-fatima-dev&theme=github-dark-blue&hide_border=true"
+  src="https://streak-stats.demolab.com?user=abeer-fatima-dev&theme=github-dark-blue&hide_border=true"
 />
 
 </div>
 
 ---
 
+<!-- ====================== CONNECT ====================== -->
+
 # 🌐 Let's Connect
 
 <div align="center">
 
-### Interested in building practical AI systems and collaborating on impactful AI engineering work.
+### I'm interested in building practical AI systems and collaborating on impactful AI engineering work.
 
 <br>
 
@@ -157,8 +306,34 @@ src="https://streak-stats.demolab.com?user=abeer-fatima-dev&theme=github-dark-bl
 
 [![Repositories](https://img.shields.io/badge/EXPLORE_MY_REPOSITORIES-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abeer-fatima-dev?tab=repositories)
 
+</div>
+
+---
+
+<!-- ====================== ENDING ====================== -->
+
+<div align="center">
+
+## ✨ Thanks for Visiting!
+
+Thank you for taking the time to explore my GitHub profile.
+
+If you find my work interesting or useful, consider giving my repositories a ⭐ —  
+it helps support my work and motivates me to keep building.
+
+<br>
+
+### ⭐ Explore • Learn • Build • Improve
+
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=abeer-fatima-dev&label=Profile%20Views&color=0e75b6&style=for-the-badge)
+
 <br><br>
 
-### `Building AI that moves from models to meaningful applications.`
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer"
+/>
 
 </div>
